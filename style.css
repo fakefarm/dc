@@ -1,0 +1,26 @@
+* {
+  padding: 0.1em 0;
+  margin: 0;
+}
+
+body {
+  background: #ffff00;
+  font-size: 3em;
+  font-family: arial;
+  color: #0080ff
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+input[type='text'] {
+  width: 100%;
+  padding: 0.2em;
+  background: #b3b3b3;
+  color: red;
+  border: none;
+  box-shadow: none;
+  font-size: 2em;
+}
